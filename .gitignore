@@ -1,0 +1,22 @@
+# --- MATLAB / Simulink build artifacts (regenerated automatically) ---
+slprj/
+sccprj/
+codegen/
+*.slxc
+*.mexmaci64
+*.mexa64
+*.mexw64
+
+# --- Simulink autosave / backup / version-specific copies ---
+*.autosave
+*.slx.original
+*.slx.r*
+*.asv
+*.m~
+
+# --- macOS ---
+.DS_Store
+._*
+
+# --- Reference PDFs (third-party, not ours to redistribute) ---
+*.pdf
